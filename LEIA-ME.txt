@@ -1,0 +1,1 @@
+Versão 5.1: correções de compatibilidade Safari/iPad. Para instalar como PWA, hospede os arquivos em HTTPS. Para teste, abra o HTML isolado. Os dados são locais ao navegador.
